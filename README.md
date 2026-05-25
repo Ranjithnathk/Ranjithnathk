@@ -78,17 +78,16 @@ Built a document analytics platform that enables semantic search, clause extract
 ---
 
 ## 🎯 What I’m Looking For
-I am actively seeking **Data Engineer, Data Analyst, or Analytics roles** where I can:
+I am actively seeking **Data Engineer, AI/ML Engineer, or Data Science roles** where I can:
 - Build scalable data pipelines  
 - Deliver high-impact dashboards  
-- Work on real business and healthcare datasets  
+- Work on real business data  
 - Contribute to data-driven decision making  
 
 ---
 
 ## 📬 Connect With Me
-- **LinkedIn:** [https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/ranjithnathk/)  
-- **Resume:** (Add Google Drive or portfolio link here)  
-- **Email:** ranjithnathk29@gmail.com  
+- **LinkedIn:** [https://www.linkedin.com/in/ranjithnathk/](https://www.linkedin.com/in/ranjithnathk/)   
+- **Email:** ranjithnathk96@gmail.com  
 
 Thanks for visiting my GitHub - feel free to explore my work!
