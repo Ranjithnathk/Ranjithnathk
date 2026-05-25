@@ -1,5 +1,5 @@
 # Hi, I’m Ranjithnath 👋  
-**Data Engineer | Data Analyst | Machine Learning & AI**
+**Data Engineer | AI/ML Engineer**
 
 ## 🔍 About Me
 I’m a Master’s student in **Information Systems at Northeastern University (Boston)** with **6+ years of professional experience** in **data engineering, analytics, and reporting**. I specialize in building **end-to-end data platforms** — from raw ingestion and cloud pipelines to analytics, dashboards, and decision-ready insights.
